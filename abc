@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Learning CSS</title>
+    <link rel="stylesheet" href="css/screen1.css">
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>SHAMEEM NOOR MKS</h1>
+            <p>Website slogan included here</p>
+
+            <nav>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Portfolio</a></li>
+                    <li><a href="#">Contact Us</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <div class="content-area">
+            <div class="main-area">
+                <p>
+                    This is the main area (or colimn).You can launch a new career in web development today by learning
+                    HTML & CSS. You don't need a computer science degree or expensive software. All you need is a
+                    computer, a bit of time, a lot of determination, and a teacher you trust. I've taught HTML and CSS
+                    to countless coworkers and held training sessions for fortune 100 companies. I am that teacher you
+                    can trust. Don't limit yourself by creating websites with some cheesy “site-builder" tool. This
+                    course teaches
+                    you how to take 100% control over your webpages by using the same concepts that every professional
+                    website is created with. This course does not assume any prior experience. We start at square one
+                    and learn together bit by
+                    bit. By the end of the course you will have created (by hand) a website that looks great on phones,
+                    tablets, laptops, and desktops alike.
+                </p>
+
+                <table class="grocery-list">
+                    <thead>
+                        <tr>
+                            <th class="col-item-name">Item Name</th>
+                            <th class="col-quantity">Quantity</th>
+                            <th class="col-price">price</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Oranges</td>
+                            <td>5</td>
+                            <td>$3.00</td>
+                        </tr>
+                        <tr>
+                            <td>Celery</td>
+                            <td>2</td>
+                            <td>$2.50</td>
+                        </tr>
+                        <tr>
+                            <td>Garlic</td>
+                            <td>2</td>
+                            <td>$1.90</td>
+                        </tr>
+                        <tr>
+                            <td>Bananas</td>
+                            <td>6</td>
+                            <td>$2.99</td>
+                        </tr>
+                        <tr>
+                            <td>Onions</td>
+                            <td>4</td>
+                            <td>$3.00</td>
+                        </tr>
+                        <tr>
+                            <td>Very long awkwardly named yrt still dellcioud Item here</td>
+                            <td>4</td>
+                            <td>$3.00</td>
+                        </tr>
+                        <tr>
+                            <td>shakir</td>
+                            <td>12</td>
+                            <td>$2.99</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <p>
+                    <p> I am that teacher you can trust. Don't limit yourself by creating websites with some cheesy “site-builder" tool. This course teaches you
+                        how to take 100% control over your webpages by using the same concepts that every professional website
+                        is created with. This course does not assume any prior experience. We start at square one and learn together bit by bit.
+                        By the end of the course you will have created (by hand) a website that looks great on phones, tablets,
+                        laptops, and desktops alike.</p>
+                </p>
+
+
+            </div>
+            <aside class="sidebar">
+                You can launch a new career in web development today by learning HTML & CSS. You don't need a computer
+                science degree or expensive software. All you need is a computer, a bit of time, a lot of determination,
+                and a teacher you trust. I've taught HTML and CSS to countless coworkers and held training sessions for
+                fortune 100 companies. I am that teacher you can trust. Don't limit yourself by creating websites with
+                some cheesy “site-builder" tool. This course teaches you
+                how to take 100% control over your webpages by using the same concepts that every professional website
+                is created with. This course does not assume any prior experience. We start at square one and learn
+                together bit by bit.
+                By the end of the course you will have created (by hand) a website that looks great on phones, tablets,
+                laptops, and desktops alike.
+            </aside>
+            <p>I am that teacher you can trust. Don't limit yourself by creating websites with some cheesy “site-builder" tool. This course teaches you
+                how to take 100% control over your webpages by using the same concepts that every professional website
+                is created with. This course does not assume any prior experience. We start at square one and learn together bit by bit.
+                By the end of the course you will have created (by hand) a website that looks great on phones, tablets,
+                laptops, and desktops alike.</p>     
+        </div>
+        <footer>
+            <p>&copy; 2014 - This is the footer</p>
+        </footer>
+
+
+
+
+</body>
+
+</html>
